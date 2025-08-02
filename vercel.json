@@ -5,6 +5,9 @@
       "maxDuration": 10
     }
   },
+  "env": {
+    "DISABLE_LANGUAGE_CACHE": "true"
+  },
   "redirects": [
     {
       "source": "/",
